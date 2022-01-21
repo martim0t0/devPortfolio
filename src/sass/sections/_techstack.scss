@@ -1,0 +1,17 @@
+#techstack {
+  margin-bottom: 20px;
+  padding-top: 0px;
+}
+
+.techstack {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  min-width: 100px;
+}
+
+.lang {
+  padding: 5px;
+  max-width: 100px;
+}
